@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/EjemploSingleton/Ejemplo_Singleton3.unity
     guid: c88fba838ff1eba4490b71ea6e7a98f1
+  - enabled: 1
+    path: Assets/EjemploUI/escena1.unity
+    guid: d46c9a0744e4d324c91e305daf6cea47
+  - enabled: 1
+    path: Assets/EjemploUI/escena2.unity
+    guid: c865d57eab8805743beaf321d7a34f6e
+  - enabled: 1
+    path: Assets/EjemploUI/escena3.unity
+    guid: d81758302d4523d49a26bf62fed437c8
   m_configObjects: {}
